@@ -11,3 +11,10 @@ body {
   width: 100%;
   background-color: greenyellow;
 }
+
+.header-title {
+  text-align: center;
+  font-size: 48px;
+  color: lightsalmon;
+  text-decoration: underline;
+}
